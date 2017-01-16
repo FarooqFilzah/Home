@@ -1,0 +1,53 @@
+body
+ {
+	 background-color: #D4E6F1 ;
+ }
+
+ 
+h1
+ {
+	 color: black;
+	 text-align: center;
+	 font-style: italic;
+	 font-size: 40px;
+  }
+ h2
+ {
+	 color: black;
+	 font-style: italic;
+	 font-size: 30px;
+	 text-align: left
+ }
+ 
+ h3
+{	 color: black;
+	 font-family: "Courier New", monospace;
+	 font-size: 22px;
+	 text-align: center
+}
+	
+ p
+ {
+	 color: #34495E;
+	 font-family: Aerial, cursive;
+	 font-size: 19px;
+	 text-align: center;
+	 border-style: solid;
+	 border-width: 3px;
+	 background-color: white;
+	}
+ul
+{
+	 font-style: italic;
+	 font-size: 23px;
+	 text-align: left;
+	}
+
+img {
+    display: block;
+    margin: auto;
+    width: 40%;
+}
+
+
+
